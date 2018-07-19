@@ -1,0 +1,23 @@
+# ajax
+
+AJAX的核心就是通过javascript程序调用而发起的一次http请求。
+
+[参考](https://blog.csdn.net/lfsf802/article/details/7233640)
+
+[参考](https://blog.csdn.net/jiajiagan/article/details/70178373)
+
+## XmlHttpRequest
+
+![XmlHttpRequest](http://hi.csdn.net/attachment/201202/4/0_1328346656B5Sl.gif)
+
+## onreadystatechange
+
+0（未初始化）还没有调用open()方法
+
+1（载入）已调用send()方法，正在发送请求
+
+2（载入完成）send()方法完成，已收到全部响应内容
+
+3（解析）正在解析响应内容
+
+4（完成）响应内容解析完成，可以再客户端使用了
