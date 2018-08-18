@@ -1,40 +1,42 @@
 # etc
 
-[Node.js实现基于Redis的延迟队列](https://cnodejs.org/topic/5b30d11e57137f22415c4f05)
+## 健壮编程
 
-[框架](https://github.com/Automattic/kue)
+代码检查 / 注释 / 前后端验证
 
-[用配置写代码](https://segmentfault.com/a/1190000015643488?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+* [flow](https://flow.org/en/)
 
-[Dart-Flutter]
+* [用配置写代码](https://segmentfault.com/a/1190000015643488?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
-<https://segmentfault.com/a/1190000015591521?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly#articleHeader65>
+* [JWT](https://blog.fundebug.com/2018/07/12/what-is-jwt/)
 
-[JWT](https://blog.fundebug.com/2018/07/12/what-is-jwt/)
+## 图片资源
 
-## 1
+[渐进式图片](https://www.zhangxinxu.com/wordpress/2013/01/progressive-jpeg-image-and-so-on/)
 
-[Vue作者尤雨溪：Vue 2.0，渐进式前端解决方案](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247485737&amp;idx=1&amp;sn=14fe8a5c72aaa98c11bf6fc57ae1b6c0&source=41#wechat_redirect)
+[前端水印生成方案](https://musicfe.cn/page/15)
 
-[The Progressive Framework](http://slides.com/evanyou/progressive-javascript#/)
+## 深入理解Vue
 
-[flow](https://flow.org/en/)
+渐进式框架
 
-[AST 抽象语法树](https://juejin.im/post/5ab83f67f265da237e09b2f6)
+* [Vue作者尤雨溪：Vue 2.0，渐进式前端解决方案](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247485737&amp;idx=1&amp;sn=14fe8a5c72aaa98c11bf6fc57ae1b6c0&source=41#wechat_redirect)
 
-[vue dom的更新算法]
+* [The Progressive Framework](http://slides.com/evanyou/progressive-javascript#/)
 
-[参考](https://blog.csdn.net/u010692018/article/details/78799335/)
+vue dom的更新算法
 
-[react 和 vue的算法区别]
+* [参考](https://blog.csdn.net/u010692018/article/details/78799335/)
 
-[参考](https://blog.csdn.net/m6i37jk/article/details/78140159)
+react 和 vue的算法区别
 
-[preact源码学习（3）](https://segmentfault.com/a/1190000010349289)
+* [参考](https://blog.csdn.net/m6i37jk/article/details/78140159)
+
+* [preact源码学习（3）](https://segmentfault.com/a/1190000010349289)
 
 [探索Vue高阶组件](http://hcysun.me/2018/01/05/%E6%8E%A2%E7%B4%A2Vue%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6/)
 
-## 2
+## 算法
 
 [JS二叉树的算法](http://www.cnblogs.com/ghostgift/archive/2013/03/04/2941723.html)
 
@@ -42,32 +44,14 @@
 
 [算法](https://www.cnblogs.com/flowerszhong/archive/2011/09/14/2176374.html#3884340)
 
-## 3
+## 其他
 
-[nodejs主副线程的规则]
-
-[非阻塞单线程](https://www.cnblogs.com/linzhanfly/p/9082895.html)
-
-[nodeJS子进程](https://www.jianshu.com/p/f4995c8971a0)
-
-[cluster多进程](https://www.cnblogs.com/kenkofox/p/5431643.html)
-
-[负载均衡]
-
-[PM2 负载均衡](https://blog.csdn.net/qq_17475155/article/details/53823862)
-
-[nginx，apche]
-
-## 4
-
-[渐进式图片](https://www.zhangxinxu.com/wordpress/2013/01/progressive-jpeg-image-and-so-on/)
-
-[前端水印生成方案](https://musicfe.cn/page/15)
-
-## ？
+[2018前端](https://mp.weixin.qq.com/s/LvooedOYCJzM8G20Tlw0HQ)
 
 <https://kb.cnblogs.com/page/602163/>
 
 <https://yuguo.us/weblog/tencent-8-years/>
 
 <https://juejin.im/post/5b6349716fb9a04f834669d6?from=timeline>
+
+<https://segmentfault.com/a/1190000015591521?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly#articleHeader65>
