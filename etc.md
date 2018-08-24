@@ -10,6 +10,8 @@
 
 * [JWT](https://blog.fundebug.com/2018/07/12/what-is-jwt/)
 
+[美团扫码付的前端可用性保障实践](https://juejin.im/post/5b6d532ee51d4517df154d39)
+
 ## 图片资源
 
 [渐进式图片](https://www.zhangxinxu.com/wordpress/2013/01/progressive-jpeg-image-and-so-on/)
@@ -36,7 +38,17 @@ react 和 vue的算法区别
 
 [探索Vue高阶组件](http://hcysun.me/2018/01/05/%E6%8E%A2%E7%B4%A2Vue%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6/)
 
+## 小程序
+
+[Vue 和微信小程序的区别、比较](https://mp.weixin.qq.com/s/C74XVgzmKKl4OEUiKQb_cQ)
+
+## react
+
+[通过Recompose库掌握React函数组件](https://juejin.im/entry/5b7a989651882542b03e5412)
+
 ## 算法
+
+[Tree](https://mp.weixin.qq.com/s/dKYlKuD2wrMAK-bRBHHASg)
 
 [JS二叉树的算法](http://www.cnblogs.com/ghostgift/archive/2013/03/04/2941723.html)
 
@@ -44,9 +56,13 @@ react 和 vue的算法区别
 
 [算法](https://www.cnblogs.com/flowerszhong/archive/2011/09/14/2176374.html#3884340)
 
+[zip](https://www.cnblogs.com/esingchan/p/3958962.html)
+
 ## 其他
 
 [2018前端](https://mp.weixin.qq.com/s/LvooedOYCJzM8G20Tlw0HQ)
+
+[Julia](https://mp.weixin.qq.com/s/dvVQ9H14eyVjyD4yhadRnQ)
 
 <https://kb.cnblogs.com/page/602163/>
 
