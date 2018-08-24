@@ -60,6 +60,8 @@ react 和 vue的算法区别
 
 ## 其他
 
+[博文收集](https://github.com/FrankFang/best-chinese-front-end-blogs)
+
 [2018前端](https://mp.weixin.qq.com/s/LvooedOYCJzM8G20Tlw0HQ)
 
 [Julia](https://mp.weixin.qq.com/s/dvVQ9H14eyVjyD4yhadRnQ)
