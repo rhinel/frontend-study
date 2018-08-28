@@ -10,7 +10,7 @@
 
 * [JWT](https://blog.fundebug.com/2018/07/12/what-is-jwt/)
 
-[美团扫码付的前端可用性保障实践](https://juejin.im/post/5b6d532ee51d4517df154d39)
+* [优雅的提交你的 Git Commit Message](https://mp.weixin.qq.com/s/M7JIUNo3_RqsDbMp-w-FBg)
 
 ## 图片资源
 
@@ -38,13 +38,15 @@ react 和 vue的算法区别
 
 [探索Vue高阶组件](http://hcysun.me/2018/01/05/%E6%8E%A2%E7%B4%A2Vue%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6/)
 
+## react
+
+[初级性能优化](https://segmentfault.com/a/1190000015366521)
+
+[通过Recompose库掌握React函数组件](https://juejin.im/entry/5b7a989651882542b03e5412)
+
 ## 小程序
 
 [Vue 和微信小程序的区别、比较](https://mp.weixin.qq.com/s/C74XVgzmKKl4OEUiKQb_cQ)
-
-## react
-
-[通过Recompose库掌握React函数组件](https://juejin.im/entry/5b7a989651882542b03e5412)
 
 ## 算法
 
@@ -59,6 +61,20 @@ react 和 vue的算法区别
 [算法](https://www.cnblogs.com/flowerszhong/archive/2011/09/14/2176374.html#3884340)
 
 [zip](https://www.cnblogs.com/esingchan/p/3958962.html)
+
+## 工程入门
+
+[基础 前端监控和前端埋点方案设计](https://juejin.im/post/5b62d68df265da0f9d1a1cd6)
+
+[基础 前端异常监控落地](https://zhuanlan.zhihu.com/p/26085642)
+
+[基础 CDN](https://zhuanlan.zhihu.com/p/39028766)
+
+[系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
+
+[美团扫码付的前端可用性保障实践](https://juejin.im/post/5b6d532ee51d4517df154d39)
+
+[前端遇上Go: 美团静态资源增量更新的新实践](https://tech.meituan.com/fe_and_golang.html)
 
 ## 其他
 
