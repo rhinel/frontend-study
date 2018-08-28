@@ -44,6 +44,8 @@ react 和 vue的算法区别
 
 [通过Recompose库掌握React函数组件](https://juejin.im/entry/5b7a989651882542b03e5412)
 
+[preact](https://github.com/Tencent/omi)
+
 ## 小程序
 
 [Vue 和微信小程序的区别、比较](https://mp.weixin.qq.com/s/C74XVgzmKKl4OEUiKQb_cQ)
