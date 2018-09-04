@@ -12,6 +12,10 @@
 
 * [优雅的提交你的 Git Commit Message](https://mp.weixin.qq.com/s/M7JIUNo3_RqsDbMp-w-FBg)
 
+[JavaScript 的 API 设计原则](https://mp.weixin.qq.com/s/h6gdJm-lfyBAfOdAmhQ2BQ)
+
+[vsCode 插件推荐](https://juejin.im/entry/5b7f4ffef265da4355387bd7)
+
 ## 图片资源
 
 [渐进式图片](https://www.zhangxinxu.com/wordpress/2013/01/progressive-jpeg-image-and-so-on/)
@@ -50,7 +54,11 @@ react 和 vue的算法区别
 
 [Vue 和微信小程序的区别、比较](https://mp.weixin.qq.com/s/C74XVgzmKKl4OEUiKQb_cQ)
 
+[科普 | 移动端应用相互跳转的 16 种路径详解](https://mp.weixin.qq.com/s/5rMWLR3U5byYorJc9KCqOA)
+
 ## 算法
+
+[漫画：什么是时间复杂度？](https://mp.weixin.qq.com/s/VaxhkEkIz-GBsLDPRGfJqA)
 
 [数据结构和算法](https://zhuanlan.zhihu.com/p/37289934)
 
@@ -59,6 +67,12 @@ react 和 vue的算法区别
 [JS二叉树的算法](http://www.cnblogs.com/ghostgift/archive/2013/03/04/2941723.html)
 
 [二叉树运算](https://blog.csdn.net/qq_36048015/article/details/77899447)
+
+[红黑树算法和应用(更高级的二叉查找树)](http://data.biancheng.net/view/85.html)
+
+[6天通吃树结构—— 第三天 Treap树](https://www.cnblogs.com/huangxincheng/archive/2012/07/30/2614484.html)
+
+[排序算法总结（5）：堆排序](https://mp.weixin.qq.com/s/t-GkSN5EEL-lplM65OeSig)
 
 [算法](https://www.cnblogs.com/flowerszhong/archive/2011/09/14/2176374.html#3884340)
 
@@ -84,7 +98,13 @@ react 和 vue的算法区别
 
 [2018前端](https://mp.weixin.qq.com/s/LvooedOYCJzM8G20Tlw0HQ)
 
+[开发chorme 插件](https://thefrontier.bignerdranch.com/screencasts/creating-a-chrome-browser-extension)
+
 [Julia](https://mp.weixin.qq.com/s/dvVQ9H14eyVjyD4yhadRnQ)
+
+[FIRST STEPS WITH TENSORFLOW.JS](https://aralroca.com/2018/08/24/first-steps-with-tensorflow-js/)
+
+[机器人和物联网平台](http://johnny-five.io/)
 
 <https://kb.cnblogs.com/page/602163/>
 
