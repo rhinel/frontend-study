@@ -1,5 +1,6 @@
 // class 定义了一个function的原型对象
 // 不存在变量提升，并且内部全是严格模式
+// Decorator 处于阶段二，暂不支持
 
 class Penson {
   // 构造
