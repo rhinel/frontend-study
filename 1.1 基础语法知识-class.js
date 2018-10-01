@@ -68,7 +68,7 @@ console.log('9 status', wang.status)
 
 // 继承
 
-class man extends Penson {
+class Man extends Penson {
   constructor(options) {
     // 先执行父类构造
     super(options)
@@ -91,12 +91,12 @@ class man extends Penson {
 }
 
 // console 10-11
-const zhang = new man({
+const zhang = new Man({
   name: 'zhang',
 })
 
 // console 12
-man.showName()
+Man.showName()
 
 // console 13
 zhang.showOptions()
@@ -108,7 +108,7 @@ zhang.shirt()
 console.log('15 type', zhang.type)
 
 // console 16
-man.shoe()
+Man.shoe()
 
 // console 15
-console.log('17 status', man.status)
+console.log('17 status', Man.status)
