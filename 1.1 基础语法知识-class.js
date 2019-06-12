@@ -112,3 +112,19 @@ Man.shoe()
 
 // console 15
 console.log('17 status', Man.status)
+
+// ----------------------- test -----------------------
+
+class X {
+  constructor() {
+    return {}
+  }
+  value() {
+    return 42
+  }
+}
+
+const x = new X
+console.log(x.value())
+
+// ?
